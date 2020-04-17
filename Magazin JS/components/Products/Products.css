@@ -18,6 +18,7 @@
 .products-element__name {
     margin-bottom: auto;
     font-weight: bold;
+    text-align: center;
 }
 .products-element__img {
     width: 100%;
@@ -28,6 +29,7 @@
 .products-element__price {
     margin-top: var(--spacing-medium);
     color: var(--color-unaccent);
+    text-align: center;
 }
 .products-element__btn {
     margin-top: var(--spacing-medium);
